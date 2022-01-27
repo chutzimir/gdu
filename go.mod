@@ -3,6 +3,7 @@ module github.com/dundee/gdu/v5
 go 1.16
 
 require (
+	github.com/dgraph-io/badger/v3 v3.2103.2 // indirect
 	github.com/fatih/color v1.12.0
 	github.com/gdamore/tcell/v2 v2.4.1-0.20210905002822-f057f0a857a1
 	github.com/mattn/go-isatty v0.0.13
